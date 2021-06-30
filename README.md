@@ -1,6 +1,4 @@
-<a href="https://letmeask-nlw-3bdba.web.app/">
-  ![LetmeAsk](./src/assets/images/logo.svg)
-</a>
+![LetmeAsk](./src/assets/images/logo.svg)
 
 ## **Descrição**
 Projeto realizado durante o evento da NLW#Together da Rocketseat utilizando React Js, Firebase Realtime Database, Sass e muito mais!
